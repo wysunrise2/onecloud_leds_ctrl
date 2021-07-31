@@ -3,8 +3,8 @@
 
 ssh访问玩客云输入以下命令
 ```shell
-vim /sys/class/leds/onecloud:blue:alive/brightness```
-
+vim /sys/class/leds/onecloud:blue:alive/brightness
+```
 #####摁`i`进入编辑模式，把`255`改成`0`
 #####再摁`ESC`退出编辑模式，输入`:wq!`，回车。灯灭。
 
